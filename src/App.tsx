@@ -6,7 +6,7 @@ import BlackButton from "./BlackButton";
 import applemusiclogo from "./imgs/applemusiclogo.png";
 import tidallogo from "./imgs/tidallogo.png";
 import spotifylogo from "./imgs/spotifylogo.png";
-
+/* */
 function App() {
   const buttonbuttonInputs = [
     "1",
